@@ -50,8 +50,8 @@ git config --global user.email "your-email@example.com"
 
 > ✏️ **Example:**
 > ```bash
-> git config --global user.name "satyam-navdiya-spec"
-> git config --global user.email "satyamashokbhainavdiya@gmail.com"
+> git config --global user.name "mrraut475-gif"
+> git config --global user.email "mrraut475@gmail.com"
 > ```
 
 ---
